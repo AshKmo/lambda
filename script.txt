@@ -1,0 +1,16 @@
+(
+	\false
+	\true
+	\n0
+	\S
+
+	S n0
+)
+
+(\a \b a)
+
+(\a \b b)
+
+(\f \x x)
+
+(\n \f \x f (n f x))
